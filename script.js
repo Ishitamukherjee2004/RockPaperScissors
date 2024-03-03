@@ -8,7 +8,7 @@ let score = document.querySelector(".score");
 let result = document.querySelector(".result>p");
 
 const rock = document.getElementById("rock");
-const scissor = document.getElementById("scissor");
+const paper = document.getElementById("paper");
 const scissor = document.getElementById("scissor");
 
 function wins(userChoice, computerChoice){
